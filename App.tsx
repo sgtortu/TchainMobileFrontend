@@ -63,7 +63,7 @@ function App(): JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Tchain app">
-            Hola. Esta será la app de <Text style={styles.highlight}>Tchain</Text>!
+            Hola. Esta será la app de <Text style={styles.highlight}>Tchain</Text>.
           </Section>
         </View>
     </SafeAreaView>
